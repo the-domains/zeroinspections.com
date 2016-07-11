@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Zero In Home Inspections]]></title>
         <description><![CDATA[Zero In Home Inspections]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zeroinspections.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 21:53:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 21:54:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zeroinspections.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Zero In Home Inspections coming soon!</p>]]></description>
-            <link>undefinedzero-in-home-inspections-coming-soon/index.html</link>
+            <link>https://thegrid.ai/zeroinspections.com/zero-in-home-inspections-coming-soon/index.html</link>
             <guid isPermaLink="false">f4fdb7df-f8fe-4181-bf7c-7ed767c84b64</guid>
-            <pubDate>Mon, 11 Jul 2016 21:53:01 GMT</pubDate>
+            <pubDate>Mon, 11 Jul 2016 21:54:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
