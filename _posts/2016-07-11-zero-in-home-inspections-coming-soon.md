@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Zero In Home Inspections coming soon!
-datePublished: '2016-07-12T14:42:48.082Z'
-dateModified: '2016-07-12T14:42:28.163Z'
-title: ''
-author: []
+datePublished: '2016-07-12T14:43:58.606Z'
+dateModified: '2016-07-12T14:42:54.669Z'
+title: Michael
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-11-zero-in-home-inspections-coming-soon.md
 authors: []
 publisher: null
