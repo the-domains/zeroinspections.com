@@ -1,23 +1,24 @@
 ---
+datePublished: '2016-08-23T19:21:31.430Z'
+sourcePath: _posts/2016-07-11-zero-in-home-inspections-coming-soon.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: Zero In Home Inspections coming soon!
-datePublished: '2016-07-12T14:56:00.356Z'
-dateModified: '2016-07-12T14:55:55.729Z'
-title: Michael
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-07-11-zero-in-home-inspections-coming-soon.md
-authors: []
-publisher: null
+via: {}
+dateModified: '2016-08-23T19:21:31.069Z'
+title: Michael
+publisher: {}
+description: Zero In Pro Home Inspection coming soon!
+inLanguage: null
+inNav: false
 starred: true
 url: zero-in-home-inspections-coming-soon/index.html
 _type: Article
 
 ---
-Zero In Home Inspections coming soon!
+Zero In Pro Home Inspection coming soon!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3dfc0e8-17f4-40d1-a060-9ef5c3706449.jpg)
