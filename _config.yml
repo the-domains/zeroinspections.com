@@ -1,20 +1,4 @@
-name: Zero In Home Inspections
-favicon: null
-layout_spectrum: 0.24497009511105716
 typography_spectrum: 0.9681786366272718
-title: Zero In Home Inspections
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fffeea'
@@ -26,4 +10,20 @@ color:
   lightness: 0.09998630941845477
   saturation: 0.6080979534890503
   rhythmicContrast: 0.9490145770832896
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24497009511105716
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Zero In Home Inspections
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Zero In Home Inspections
 purpose: []
