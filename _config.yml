@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: f4fdb7df-f8fe-4181-bf7c-7ed767c84b64
+    type: content
 favicon: null
 title: Professional Home Inspection
 purpose: []
