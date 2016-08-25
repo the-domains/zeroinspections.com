@@ -2,8 +2,8 @@
 description: >-
   If your monitor was a mirror you’d see i’m on the other side of this actually
   working on this site
-dateModified: '2016-08-25T18:35:37.968Z'
-datePublished: '2016-08-25T18:35:58.773Z'
+dateModified: '2016-08-25T18:39:48.189Z'
+datePublished: '2016-08-25T18:40:04.716Z'
 title: Zero In Coming Soon
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 authors: []
-starred: true
+starred: false
 _type: Blurb
 
 ---
