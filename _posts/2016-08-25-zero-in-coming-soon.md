@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
-  If your monitor was a mirror you’d see i’m on the other side of this actually
+  If your monitor was a window you’d see i’m on the other side of this actually
   working on this site
-datePublished: '2016-08-25T18:52:04.299Z'
-dateModified: '2016-08-25T18:44:57.769Z'
+datePublished: '2016-08-25T19:55:49.183Z'
+dateModified: '2016-08-25T19:55:35.400Z'
 title: Zero In Coming Soon
 author: []
 via: {}
@@ -24,4 +24,4 @@ _type: Blurb
 
 # Zero In Coming Soon
 
-If your monitor was a mirror you'd see i'm on the other side of this actually working on this site
+> If your monitor was a window you'd see i'm on the other side of this actually working on this site
