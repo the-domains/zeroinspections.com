@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
-  If your monitor was a window you’d see i’m on the other side of this actually
+  If your monitor was a window, you’d see i’m on the other side of this actually
   working on this site
-datePublished: '2016-08-25T19:55:57.683Z'
-dateModified: '2016-08-25T19:55:52.923Z'
+datePublished: '2016-08-25T20:30:49.849Z'
+dateModified: '2016-08-25T20:30:23.818Z'
 title: Zero In Coming Soon
 author: []
 via: {}
@@ -20,8 +20,9 @@ starred: false
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45cf5fa0-3e8d-4f4a-87a1-60b09e07311d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb275fbe-1ba5-4abe-bc5a-94649c6716ad.jpg)
 
 # Zero In Coming Soon
 
-> If your monitor was a window you'd see i'm on the other side of this actually working on this site
+> If your monitor was a window, you'd see i'm on the other side of this actually working on this site
