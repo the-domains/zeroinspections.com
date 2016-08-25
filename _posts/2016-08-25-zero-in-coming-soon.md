@@ -8,8 +8,8 @@ keywords: []
 description: >-
   If your monitor was a window you’d see i’m on the other side of this actually
   working on this site
-datePublished: '2016-08-25T19:55:49.183Z'
-dateModified: '2016-08-25T19:55:35.400Z'
+datePublished: '2016-08-25T19:55:57.683Z'
+dateModified: '2016-08-25T19:55:52.923Z'
 title: Zero In Coming Soon
 author: []
 via: {}
