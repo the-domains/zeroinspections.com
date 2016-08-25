@@ -1,4 +1,3 @@
-layout_spectrum: 0.24497009511105716
 typography_spectrum: 0.029430496506392956
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.24497009511105716
 analytics:
   google: null
   facebook: null
@@ -30,4 +30,5 @@ navigation:
     type: content
 favicon: null
 title: Professional Home Inspection
+description: Tagline
 purpose: []
