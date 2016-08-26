@@ -8,15 +8,15 @@ keywords: []
 description: >-
   If your monitor was a window, you’d see i’m on the other side of this actually
   working on this site
-datePublished: '2016-08-25T20:32:44.456Z'
-dateModified: '2016-08-25T20:31:36.113Z'
+datePublished: '2016-08-25T21:59:12.794Z'
+dateModified: '2016-08-25T20:33:12.379Z'
 title: Zero In Coming Soon
 author: []
 via: {}
 sourcePath: _posts/2016-08-25-zero-in-coming-soon.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 _type: Blurb
 
 ---
